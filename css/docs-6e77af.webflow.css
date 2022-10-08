@@ -1466,6 +1466,14 @@ figcaption {
   justify-content: center;
 }
 
+.left-arrow {
+  display: none;
+}
+
+.column-2 {
+  display: none;
+}
+
 @media screen and (max-width: 991px) {
   .c-section {
     padding-top: 60px;
